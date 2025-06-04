@@ -50,16 +50,16 @@ Predict the likelihood of Parkinson’s disease using voice features:
 
 ## 🛠️ How to Run the Application
 
-Clone the repository
+- Clone the repository
 git clone https://github.com/deepakgit-1/Prediction-of-Disease-Outbreaks.git
 
-Navigate into the project directory
+- Navigate into the project directory
 cd Prediction-of-Disease-Outbreaks
 
-Launch the application
+- Launch the application
 streamlit run app.py
 
-The app will open in your default browser. Use the sidebar to choose a disease, fill out the required form fields, and get instant predictions.
+- The app will open in your default browser. Use the sidebar to choose a disease, fill out the required form fields, and get instant predictions.
 
 ## 🔍 How It Works
 - User Interaction: Users input relevant health parameters for one of the three diseases.
