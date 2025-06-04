@@ -43,17 +43,13 @@ Predict the likelihood of Parkinson’s disease using voice features:
 | **streamlit-option-menu** | Sidebar navigation for selecting disease prediction |
 
 ---
-
 ## 📦 Requirements
 
 Ensure Python 3.x is installed. Then, install the required libraries:
-
-```bash
 pip install streamlit scikit-learn streamlit-option-menu
 
+## 🛠️ How to Run the Application
 
-
-🛠️ How to Run the Application
 Clone the repository
 git clone https://github.com/deepakgit-1/Prediction-of-Disease-Outbreaks.git
 
@@ -69,3 +65,9 @@ The app will open in your default browser. Use the sidebar to choose a disease, 
 User Interaction: Users input relevant health parameters for one of the three diseases.
 Prediction Model: The app loads a pre-trained machine learning model (stored as .sav files).
 Output: The model predicts whether the user is likely to have the disease, displaying a success message with the result.
+
+
+📄 License
+This project is licensed under the MIT License. Feel free to use and adapt for educational or personal use.
+
+
