@@ -45,8 +45,8 @@ Predict the likelihood of Parkinson’s disease using voice features:
 ---
 ## 📦 Requirements
 
-Ensure Python 3.x is installed. Then, install the required libraries:
-pip install streamlit scikit-learn streamlit-option-menu
+-Ensure Python 3.x is installed. Then, install the required libraries:
+-pip install streamlit scikit-learn streamlit-option-menu
 
 ## 🛠️ How to Run the Application
 
