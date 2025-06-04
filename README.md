@@ -62,9 +62,9 @@ streamlit run app.py
 The app will open in your default browser. Use the sidebar to choose a disease, fill out the required form fields, and get instant predictions.
 
 ## 🔍 How It Works
-User Interaction: Users input relevant health parameters for one of the three diseases.
-Prediction Model: The app loads a pre-trained machine learning model (stored as .sav files).
-Output: The model predicts whether the user is likely to have the disease, displaying a success message with the result.
+- User Interaction: Users input relevant health parameters for one of the three diseases.
+- Prediction Model: The app loads a pre-trained machine learning model (stored as .sav files).
+- Output: The model predicts whether the user is likely to have the disease, displaying a success message with the result.
 
 
 ## 📄 License
