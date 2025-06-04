@@ -67,7 +67,7 @@ Prediction Model: The app loads a pre-trained machine learning model (stored as 
 Output: The model predicts whether the user is likely to have the disease, displaying a success message with the result.
 
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License. Feel free to use and adapt for educational or personal use.
 
 
